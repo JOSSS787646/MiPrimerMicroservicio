@@ -1,6 +1,6 @@
 const express = require('express');
 const dotenv = require('dotenv');
-const personaRoutes = require('./routes/personaRoutes');
+const personaRoutes = require('./src/routes/personaRoutes');
 
 dotenv.config();
 
